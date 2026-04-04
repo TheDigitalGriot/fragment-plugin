@@ -1,0 +1,18 @@
+{
+  "name": "fragment-plugin",
+  "metadata": {
+    "description": "Fragment companion plugin — wires AI plugins into Fragment-scaffolded surfaces (Electron, VS Code, TUI)",
+    "version": "0.0.1",
+    "pluginRoot": "."
+  },
+  "owner": {
+    "name": "TheDigitalGriot"
+  },
+  "plugins": [
+    {
+      "name": "fragment",
+      "source": "./",
+      "description": "Wires AI plugins into Fragment-scaffolded surfaces with /fragment-connect and /fragment-status skills"
+    }
+  ]
+}
