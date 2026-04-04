@@ -1,5 +1,13 @@
 # Fragment Plugin
 
+[![GitHub release](https://img.shields.io/github/v/release/TheDigitalGriot/fragment-plugin?include_prereleases&label=version)](https://github.com/TheDigitalGriot/fragment-plugin/releases)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-plugin-D97706.svg)](https://claude.ai)
+[![Python](https://img.shields.io/badge/python-3.8+-3776AB.svg)](https://www.python.org/)
+[![Fragment](https://img.shields.io/badge/for-Fragment_AI_Scaffold-FF6EC7.svg)](https://github.com/TheDigitalGriot/fragment-ai-scaffold)
+[![GitHub last commit](https://img.shields.io/github/last-commit/TheDigitalGriot/fragment-plugin)](https://github.com/TheDigitalGriot/fragment-plugin/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/TheDigitalGriot/fragment-plugin?style=social)](https://github.com/TheDigitalGriot/fragment-plugin)
+
 A Claude Code plugin that wires AI plugins into [Fragment](https://github.com/TheDigitalGriot/fragment-ai-scaffold)-scaffolded surfaces (Electron, VS Code, TUI).
 
 ## Installation
